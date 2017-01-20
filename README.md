@@ -4,5 +4,7 @@ which than can be edited about quantity, color and material and sent to a 3d-pri
 
 ## pre-limenary-installations
  Pyton 2.7
+ 
  kitchen --> pip install kitchen
+ 
  openpyxl --> pip install openpyxl
