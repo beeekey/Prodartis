@@ -44,7 +44,7 @@ for file in files:
     print(partName[0])
     sheet['B'+str(i)] = partName[0]
     sheet['C'+str(i)] = 'PA12 HF'
-    sheet['D'+str(i)] = 'gleitgeschliffen'
+    sheet['D'+str(i)] = 'gleitgeschliffen / nicht lackiert'
     sheet['E'+str(i)] = 'schwarz/black'
     i+=1
 
